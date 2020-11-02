@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "rightfire1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.18333333333333332,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "78505e63-82d1-4fbf-abcd-f81a3a7205ec"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "12c17d83-972a-4ddb-a821-db5dea946613"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

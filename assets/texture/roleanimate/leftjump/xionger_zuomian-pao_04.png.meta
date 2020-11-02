@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "e1da4954-75f4-4fc4-b945-9c54675f8132",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 265,
+  "height": 325,
+  "platformSettings": {},
+  "subMetas": {
+    "xionger_zuomian-pao_04": {
+      "ver": "1.0.4",
+      "uuid": "94180d2b-8d52-40ad-985e-e322b42fcff4",
+      "rawTextureUuid": "e1da4954-75f4-4fc4-b945-9c54675f8132",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3.5,
+      "offsetY": 5.5,
+      "trimX": 38,
+      "trimY": 4,
+      "width": 196,
+      "height": 306,
+      "rawWidth": 265,
+      "rawHeight": 325,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
