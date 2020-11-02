@@ -1,0 +1,4 @@
+include ':libcocos2dx',':game', ':instantapp'
+project(':libcocos2dx').projectDir = new File('E:/cocoscreator/CocosCreator_v2.3.4_20200521_win/resources/cocos2d-x/cocos/platform/android/libcocos2dx')
+include ':gfmx'
+project(':gfmx').projectDir = new File(settingsDir, 'app')
